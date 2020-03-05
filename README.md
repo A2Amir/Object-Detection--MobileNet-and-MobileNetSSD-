@@ -1,4 +1,4 @@
-# CarND Object Detection Lab
+### Object-Detection (MobileNet and MobileNet SSD)
 
 In this repository:
 
@@ -36,8 +36,8 @@ Further documentation on [working with Anaconda environments](https://conda.io/d
 
 Particularly useful sections:
 
-https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
-https://conda.io/docs/using/envs.html#remove-an-environment
+* https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
+* https://conda.io/docs/using/envs.html#remove-an-environment
 
 
 
