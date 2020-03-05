@@ -44,7 +44,5 @@ https://conda.io/docs/using/envs.html#remove-an-environment
 
 
 * TensorFlow object detection [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
-* [Driving video](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/advanced_deep_learning/driving.mp4)
+* [Udacity](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiakvGY7oLoAhVE-VEKHRTwDvgYABAAGgJ3cw&ohost=www.google.com&cid=CAASEuRoxDWu_76j2oNRAn6sQGxq2w&sig=AOD64_0PJ1T_DEbslELxkiZZ8vnegkKO5Q&q=&ved=2ahUKEwia8-qY7oLoAhWJzaQKHZXODF4Q0Qx6BAgbEAE&adurl=)
 
-### Tips
-- Some windows users have reported the driving video as playable only in Jupyter Notebook operating in Chrome browser, and not in media player or Jupyter Notebook operating in other browsers.  In contrast the post-segmentation video appears to be operating across players and browsers.
