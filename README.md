@@ -9,6 +9,10 @@ In this repository:
 * Apply an object detection pipeline to a video.
 
 
+### Applied object detection pipeline to a video
+
+<img src="./assets/1.gif" />
+
 ### Requirements
 
 Install environment with [Anaconda](https://www.continuum.io/downloads):
@@ -35,9 +39,6 @@ Particularly useful sections:
 https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
 https://conda.io/docs/using/envs.html#remove-an-environment
 
-### Applied object detection pipeline to a video
-
-[![Watch the video](./assets/ssd_architecture.png)](https://github.com/A2Amir/Object-Detection--MobileNet-and-MobileNetSSD-/blob/master/driving1.mp4)
 
 
 ### Resources
