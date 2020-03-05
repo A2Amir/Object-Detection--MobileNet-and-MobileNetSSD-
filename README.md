@@ -37,9 +37,8 @@ https://conda.io/docs/using/envs.html#remove-an-environment
 
 ### Applied object detection pipeline to a video
 
-<video width="960" height="600" controls>
-<source src="result.mp4" type="video/mp4">
-</video>
+[![Watch the video](./assets/ssd_architecture.png)](https://github.com/A2Amir/Object-Detection--MobileNet-and-MobileNetSSD-/blob/master/driving1.mp4)
+
 
 ### Resources
 
