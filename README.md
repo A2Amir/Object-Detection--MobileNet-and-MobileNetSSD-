@@ -1,7 +1,5 @@
 # CarND Object Detection Lab
 
-![](assets/clip.gif)
-
 In this repository:
 
 * Learn about *MobileNets* and separable depthwise convolutions.
