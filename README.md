@@ -8,7 +8,6 @@ In this repository:
 * Use different architectures and weigh the tradeoffs.
 * Apply an object detection pipeline to a video.
 
-Open the notebook and work through it!
 
 ### Requirements
 
@@ -35,6 +34,12 @@ Particularly useful sections:
 
 https://conda.io/docs/using/envs.html#change-environments-activate-deactivate
 https://conda.io/docs/using/envs.html#remove-an-environment
+
+### Applied object detection pipeline to a video
+
+<video width="960" height="600" controls>
+<source src="result.mp4" type="video/mp4">
+</video>
 
 ### Resources
 
