@@ -1,6 +1,6 @@
 ### Object-Detection (MobileNet and MobileNet SSD)
 
-In this repository:
+In this [notebook](https://github.com/A2Amir/Object-Detection--MobileNet-and-MobileNetSSD-/blob/master/Object%20Detection%20(MobileNet%20and%20MobileNet%20SSD).ipynb):
 
 * Learn about *MobileNets* and separable depthwise convolutions.
 * The SSD (Single Shot Detection) architecture used for object detection
