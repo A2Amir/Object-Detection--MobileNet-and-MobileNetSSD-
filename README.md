@@ -44,8 +44,6 @@ Particularly useful sections:
 ### Resources
 
 
-
-
 * TensorFlow object detection [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md)
 * [Udacity](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiakvGY7oLoAhVE-VEKHRTwDvgYABAAGgJ3cw&ohost=www.google.com&cid=CAASEuRoxDWu_76j2oNRAn6sQGxq2w&sig=AOD64_0PJ1T_DEbslELxkiZZ8vnegkKO5Q&q=&ved=2ahUKEwia8-qY7oLoAhWJzaQKHZXODF4Q0Qx6BAgbEAE&adurl=)
 
